@@ -3,9 +3,9 @@
       "apps": [],
       "details": [
            {
-             "appID": "5Z2275W445.com.example.YourApp",
+             "appID": "5Z2275W445.com.loohp.hkbuseta",
              "paths": [ "*" ],
-             "appIDs": ["5Z2275W445.com.example.YourApp"],
+             "appIDs": ["5Z2275W445.com.loohp.hkbuseta"],
              "components": [
                  { "/": "/*" }
              ]
