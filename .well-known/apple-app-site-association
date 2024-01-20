@@ -1,13 +1,13 @@
 {
   "applinks": {
+      "apps": [],
       "details": [
            {
-             "appIDs": [ "5Z2275W445.com.loohp.hkbuseta" ],
+             "appID": "5Z2275W445.com.example.YourApp",
+             "paths": [ "*" ],
+             "appIDs": ["5Z2275W445.com.example.YourApp"],
              "components": [
-               {
-                  "/": "*",
-                  "comment": "Matches any URL."
-               }
+                 { "/": "/*" }
              ]
            }
        ]
