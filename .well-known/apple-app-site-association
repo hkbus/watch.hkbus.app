@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "com.loohp.hkbuseta" ],
+             "components": [
+               {
+                  "/": "*",
+                  "comment": "Matches any URL."
+               }
+             ]
+           }
+       ]
+   }
+}
