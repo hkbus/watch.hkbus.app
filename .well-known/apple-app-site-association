@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appID": "5Z2275W445.com.loohp.hkbuseta",
+             "paths": [ "*" ],
+             "appIDs": ["5Z2275W445.com.loohp.hkbuseta"],
+             "components": [
+                 { "/": "/*" }
+             ]
+           }
+       ]
+   }
+}
